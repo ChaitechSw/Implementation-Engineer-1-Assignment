@@ -62,7 +62,7 @@ request_data = {
             }
 
 # the API key and base url are stored as constants
-API_KEY = "AIzaSyCOD3KvY2DDzEfel-NZ_LKIWXr86EF_EUw"
+API_KEY = "Your-API-Key"
 BASE_URL = "https://maps.googleapis.com/maps/api/geocode/"
 
 # the properly encoded address and key part of the url is stored in params
